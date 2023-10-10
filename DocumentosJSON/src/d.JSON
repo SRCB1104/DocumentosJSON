@@ -1,0 +1,51 @@
+{
+  "Invoice": {
+    "Business Contact Information": {
+      "Bussines name": "",
+      "Street address": "",
+      "City,State,Zip Code": "",
+      "Phone": "",
+      "Email": "",
+      "Website": ""
+    },
+    "Bill to":{
+     "Client Name": "",
+     "Street Address": "",
+     "City,State,Zip Code": ""
+    },
+    "Ship to":{
+        "Client Name": "",
+        "Street Address": "",
+        "City,State,Zip Code": ""
+    },
+    "Invoice Details":{
+      "Invoice Number":"12345",
+      "Invoice Date": "mm/dd/yyyy",
+      "Terms": "Net30",
+      "Due": "mm/dd/yyyy"
+    },
+    "Products": [
+      {
+        "Product/Service": "",
+        "Description": "",
+        "Qty": "",
+        "Rate": "",
+        "Amount": ""
+      },
+      {
+        "Product/Service": "",
+        "Description": "",
+        "Qty": "",
+        "Rate": "",
+        "Amount": ""
+      }
+    ],
+    "TotalSale":{
+      "SubTotal": "",
+      "Sales Tax": "",
+      "Shipping": "",
+      "Total": ""
+    }
+  }
+
+}
